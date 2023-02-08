@@ -1,7 +1,7 @@
 # FaceID_Swift
 
 For creating FaceID using CoreML, we first need a model. This model will help us to detect the respective person to unlock the device.
-We have used 3 animals image data - [Cat - Dog - Horse] and created a model.
+We have used 3 animals image data - [Cat - Dog - Horse] and created a model using CreateML image classfication.
 
 We have assumed that owner of the device is cat and it will unlock when it will get atleat 95% confident that the user is a cat.
 

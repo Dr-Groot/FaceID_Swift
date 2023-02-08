@@ -5,7 +5,7 @@ We have used 3 animals image data - [Cat - Dog - Horse] and created a model.
 
 We have assumed that owner of the device is cat and it will unlock when it will get atleat 95% confident that the user is a cat.
 
-> To know more about CoreML and CreateML:
+> I request you to first check CoreML and CreateML for better understaning:
 [CoreML - Object Detection](https://github.com/Dr-Groot/ObjectDetection_CoreML-Swift) || [CoreML - CreateML](https://github.com/Dr-Groot/CreateML_CoreML-Swift)
 
 Now let's jump back to our project, when you will open the app it will appear like this:
